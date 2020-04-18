@@ -1,11 +1,11 @@
 
-# typeface-montserrat
+# @acidwave/typeface-montserrat
 
 The CSS and web font files to easily self-host “Montserrat”.
 
 ## Install
 
-`npm install --save typeface-montserrat`
+`npm install --save @acidwave/typeface-montserrat`
 
 ## Use
 
@@ -21,14 +21,5 @@ To use, simply require the package in your project’s entry file e.g.
 
 ```javascript
 // Load Montserrat typeface
-require('typeface-montserrat')
+require('@acidwave/typeface-montserrat')
 ```
-
-## About the Typefaces project.
-
-Our goal is to add all open source fonts to NPM to simplify using great fonts in
-our web projects. We’re currently maintaining 939 typeface packages
-including all typefaces on Google Fonts.
-
-If your favorite typeface isn’t published yet, [let us know](https://github.com/KyleAMathews/typefaces)
-and we’ll add it!
