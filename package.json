@@ -1,0 +1,26 @@
+{
+  "name": "@acidwave/typeface-montserrat",
+  "version": "1.0.0",
+  "description": "Montserrat typeface Cyrillic",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acidwave/typeface-montserrat.git"
+  },
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "montserrat"
+  ],
+  "author": "Timur Akmalov <me@acidwave.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acidwave/typeface-montserrat/issues"
+  },
+  "homepage": "https://github.com/acidwave/typeface-montserrat#readme"
+}
